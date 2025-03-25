@@ -18,7 +18,7 @@ resizeWeight=1
 
 # IP webcam setup
 User='webcam'
-Password='webcam123'
+Password='*************'
 
 # connect to IP webcam
 # vidcap = cv2.VideoCapture('http://webcam:webcam123@192.168.1.9:8080/video')
